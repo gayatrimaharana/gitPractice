@@ -1,0 +1,10 @@
+Test Issue Layout
+Xray provides additional web panels into the Test issue page:
+
+Test Details
+Pre-Conditions
+Test Sets
+Test Plans
+Test Runs
+Test Details
+Within the Test Details web panel, you can define the Test Type and Test Specification.
